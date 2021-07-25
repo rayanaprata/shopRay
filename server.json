@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://a-static.mlcdn.com.br/618x463/bloco-adesivo-post-it-cubo-tropical-654-76mm-x-76mm-com-450-folhas-3m/starhouse/170873p/fbf711794120f550e85039ae06a815e2.jpg",
+      "name":"Post-it",
+      "description": "Bloco Adesivo com 450 folhas",
+      "price": 12.90
+    },
+    {
+      "id": 2,
+      "photo": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/caderno-espiral-capa-dura-universitario-20-materias-pepper-feminino-320-folhas-img-81395.jpg",
+      "name":"Caderno Raposa",
+      "description": "Capa Dura - Tilibra",
+      "price": 26.90
+    },
+    {
+      "id": 3,
+      "photo": "https://img.wbuy.com.br/arquivos/4682a952c3e4daa6535caecc1cac4111/produtos/DA4NI2/cd455c522aaad7ba7a2bddf75502c287-awsaccesskeyid-akiatclmsgfx4g7qtfvdeexpires-1608132565esignature-n0fvjbzsvdet-5fd0ed5cc4e57.jpg",
+      "name":"Caderno Universo",
+      "description": "Capa Dura - Tilibra",
+      "price": 16.90
+    },
+    {
+      "id": 4,
+      "photo": "https://cdn.utilidadesclinicas.com.br/produtos/550/caneta-hidrografica-stabilo-point-8810-8605.png",
+      "name":"Canetas Hidrográficas",
+      "description": "10 Cores - Stabilo",
+      "price": 109.80
+    },
+    {
+      "id": 5,
+      "photo": "https://costaatacado.vteximg.com.br/arquivos/ids/196006-1000-1000/Caneta-Grip-Finepen-0.4-Faber-Castell-10-Unidades.jpg?v=637444102905530000",
+      "name":"Canetas Finepen",
+      "description": "10 Cores - Faber-Castell",
+      "price": 39.90
+    },
+    {
+      "id": 6,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/a/caneta-esferografica-black-jet-molin_428669.jpg",
+      "name":"Caneta Esferográfica",
+      "description": "Ponta 1,0mm - moLin",
+      "price": 8.99
+    }
+  ]  
+}
