@@ -1,6 +1,8 @@
-## Desafio 2# - Gestão de Cadastros 🛒
+## Desafio 2# - E-commerce utilizando fake API 🛒
 
 ### [Clique aqui para acessar o resultado.](https://shopray.netlify.app/) 🌈
+
+![image](https://user-images.githubusercontent.com/50561896/126911991-b2bcb5a5-9908-4b53-97ad-2fab4b52035d.png)
 
 ##### 2° Entrega - Gestão de Cadastros
 
