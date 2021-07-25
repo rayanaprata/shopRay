@@ -1,6 +1,6 @@
 ## Desafio 2# - Gestão de Cadastros 🛒
 
-[Clique aqui para acessar o resultado.](https://shopray.netlify.app/)
+### [Clique aqui para acessar o resultado.](https://shopray.netlify.app/) 🌈
 
 ##### 2° Entrega - Gestão de Cadastros
 
