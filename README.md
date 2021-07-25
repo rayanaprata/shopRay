@@ -1,5 +1,7 @@
 ## Desafio 2# - Gestão de Cadastros 🛒
 
+[Clique aqui para acessar o resultado.](https://shopray.netlify.app/)
+
 ##### 2° Entrega - Gestão de Cadastros
 
 Criação de um sistema e-commerce para inventário de produtos e dados de clientes:
